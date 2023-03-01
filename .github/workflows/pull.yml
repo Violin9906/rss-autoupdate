@@ -31,9 +31,12 @@ jobs:
       - name: Pull RSS files
         run: |
           mkdir _site
-          curl -o _site/ftchinese-news.xml https://www.ftchinese.com/rss/news
+          curl -sSL -o _site/ftchinese-news.xml https://www.ftchinese.com/rss/news
+          tar zcvf github-pages.tar.gz _site/*
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v1.0.7
+        with:
+          path: github-pages.tar.gz
           
   deploy:
     # Add a dependency to the build job
