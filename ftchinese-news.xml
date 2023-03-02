@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Generated on Thu, 02 Mar 2023 11:18:02 +0800 -->
+<!-- Generated on Thu, 02 Mar 2023 18:09:10 +0800 -->
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://www.ftchinese.com/index.php/ft/rss/news" rel="self" type="application/rss+xml" />
@@ -11,6 +11,15 @@
     <webMaster>customer.service@ftchinese.com</webMaster>
     <generator>ftchinese.com</generator>
     <ttl>86400</ttl>
+    <item>
+      <title><![CDATA[中国加强证券公司境外投资服务监管]]></title>
+      <description><![CDATA[ <img src="http://creatives.ftacademy.cn/picture/9/000172639_piclink.jpg"/><br>Cheng Leng,韩乐香港,上海报道
+ <br><p>向境内客户提供境外投资服务的中国证券公司正面临来自监管部门的压力，监管部门试图堵住中国严格资本管制中仅存的少数漏洞之一。</p>
+<p>中国证监会(CSRC)于本周生效的一项新规，重申了防止“非法跨境经纪业务”的必要性。新规是在一项打击此类服务的多年举措基础上制定的。</p>
+<p>新规扩大了去年12月的一项禁令，该禁令禁止未在境内持牌的境外机构发展境内新客户、开立新账户，在新规正式发布之前... ]]></description>
+      <link>http://www.ftchinese.com/story/001098909</link>
+      <pubDate>Thu, 02 Mar 2023 06:58:30 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[欧盟拟用新规打击债市“漂绿”行为]]></title>
       <description><![CDATA[ <img src="http://creatives.ftacademy.cn/picture/2/000115402_piclink.jpg"/><br>肯萨•布赖恩,艾丽斯•汉考克伦敦,布鲁塞尔报道
@@ -180,14 +189,5 @@
 <p>他们得到的通知是，从3月15日起，Skype for Business或欧盟委... ]]></description>
       <link>http://www.ftchinese.com/story/001098853</link>
       <pubDate>Fri, 24 Feb 2023 04:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Wintershall设法起诉俄罗斯政府]]></title>
-      <description><![CDATA[ <img src="http://creatives.ftacademy.cn/picture/6/000142076_piclink.jpg"/><br>帕特里夏•尼尔森法兰克福报道
- <br><p>德国能源集团Wintershall Dea正在设法起诉俄罗斯政府，此前克里姆林宫没收了这家德国公司在俄罗斯的业务，并使其账户中的20亿欧元归零。</p>
-<p>该集团上月成为最后一批在俄罗斯入侵乌克兰后宣布退出俄罗斯的西方石油和天然气生产商之一，承认它已失去对其油气井以及与合资伙伴俄罗斯天然气工业股份公司(Gazprom)共享的银行账户的控制权。</p>
-<p>首席执行官马里奥•梅伦(Mar... ]]></description>
-      <link>http://www.ftchinese.com/story/001098852</link>
-      <pubDate>Fri, 24 Feb 2023 00:01:45 GMT</pubDate>
     </item>
   </channel></rss>
