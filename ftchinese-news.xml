@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Generated on Fri, 03 Mar 2023 18:08:54 +0800 -->
+<!-- Generated on Sat, 04 Mar 2023 11:10:02 +0800 -->
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://www.ftchinese.com/index.php/ft/rss/news" rel="self" type="application/rss+xml" />
@@ -11,6 +11,24 @@
     <webMaster>customer.service@ftchinese.com</webMaster>
     <generator>ftchinese.com</generator>
     <ttl>86400</ttl>
+    <item>
+      <title><![CDATA[韩国芯片制造商担心美国补贴条件苛刻]]></title>
+      <description><![CDATA[ <img src="http://creatives.ftacademy.cn/picture/8/000101618_piclink.jpg"/><br>宋京雅首尔报道
+ <br><p>美国本周披露了利用390亿美元联邦基金的企业需遵循的条件，韩国芯片制造商对这些条件之严苛表示担忧。该基金旨在鼓励先进芯片制造业在美国本土的发展。</p>
+<p>韩国芯片制造商尤其担忧的是，根据美国商务部本周公布的申请《芯片法》(Chips Act)基金指引文件中的一项条款，企业必须将意外超额利润分一部分给美国政府。美国国会去年通过了该法。</p>
+<p>这些新补贴旨在打造美国本土的领先半导体... ]]></description>
+      <link>http://www.ftchinese.com/story/001098928</link>
+      <pubDate>Fri, 03 Mar 2023 12:49:12 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[美国将28家中国实体列入贸易黑名单]]></title>
+      <description><![CDATA[ <img src="http://creatives.ftacademy.cn/picture/9/000172799_piclink.jpg"/><br>迪米华盛顿报道
+ <br><p>华盛顿方面将28家中国集团列入一份贸易黑名单，理由是涉嫌向第三国提供用于核及导弹计划的技术，或者为中国军方采购被禁止的产品，从而违反了美国的制裁规定。</p>
+<p>美国商务部将这些集团列入“实体清单”(entity list)，实际上禁止了美国企业向它们提供美国技术。</p>
+<p>其中一些公司被列入黑名单是因为涉嫌为俄罗斯在乌克兰发动的战争提供支持，或者为一家本就受到美国制裁的伊朗实体提... ]]></description>
+      <link>http://www.ftchinese.com/story/001098927</link>
+      <pubDate>Fri, 03 Mar 2023 11:13:32 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[令人失望的“时代转折”：朔尔茨重置德国国防外交政策的困境]]></title>
       <description><![CDATA[ <img src="http://creatives.ftacademy.cn/picture/3/000172753_piclink.jpg"/><br>盖伊•查赞柏林报道
@@ -170,23 +188,5 @@
 <p>追踪高评级政府和公司债券的彭博(Bloomberg)指数1月一度上升4%，呈现史上表现最好的一年... ]]></description>
       <link>http://www.ftchinese.com/story/001098870</link>
       <pubDate>Mon, 27 Feb 2023 02:14:55 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[中国富人租私人飞机需提前数周]]></title>
-      <description><![CDATA[ <img src="http://creatives.ftacademy.cn/picture/1/000172111_piclink.png"/><br>Chan Ho-him香港报道
- <br><p>中国富裕旅客现在不得不提前几周预订热门航线的私人飞机，因为在中国退出新冠清零政策后，提供包机服务的公司难以满足飙升的需求。</p>
-<p>北京方面在去年年底决定取消对入境旅客的强制隔离，重新开放边境，不再像之前那样严格限制旅行，这引发了一股包机潮，与疫情期间其他市场私人飞行需求火爆一样。</p>
-<p>根据航空数据公司WingX的计算，今年1月，自中国内地出发乘坐私人飞机的国内和国际飞行次数... ]]></description>
-      <link>http://www.ftchinese.com/story/001098861</link>
-      <pubDate>Fri, 24 Feb 2023 09:21:13 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[中国呼吁乌克兰战争停火]]></title>
-      <description><![CDATA[ <img src="http://creatives.ftacademy.cn/picture/0/000172100_piclink.jpg"/><br>瑞安•麦克莫罗北京报道
- <br><p>中国呼吁乌克兰战争停火，并恢复谈判。在俄罗斯全面入侵乌克兰一周年之际，北京方面努力将自己定位为这场冲突的调停人。</p>
-<p>中国外交部周五发布了一份“政治解决”乌克兰战争危机的12点方案，其中许多措施重申了北京方面关于这场冲突的标准主张。</p>
-<p>中国外交官就这场战争采取了艰难的平衡策略，竭力显得中立，尽管中国与俄罗斯关系密切，同时指责美国和北约(NATO)挑起了这场冲突。</p>... ]]></description>
-      <link>http://www.ftchinese.com/story/001098859</link>
-      <pubDate>Fri, 24 Feb 2023 08:23:33 GMT</pubDate>
     </item>
   </channel></rss>
