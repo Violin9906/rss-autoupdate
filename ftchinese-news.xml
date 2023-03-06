@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Generated on Sun, 05 Mar 2023 18:07:57 +0800 -->
+<!-- Generated on Mon, 06 Mar 2023 11:15:33 +0800 -->
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://www.ftchinese.com/index.php/ft/rss/news" rel="self" type="application/rss+xml" />
@@ -11,6 +11,15 @@
     <webMaster>customer.service@ftchinese.com</webMaster>
     <generator>ftchinese.com</generator>
     <ttl>86400</ttl>
+    <item>
+      <title><![CDATA[英国工程技术集团IMI将部分供应链迁出中国]]></title>
+      <description><![CDATA[ <img src="http://creatives.ftacademy.cn/picture/0/000172910_piclink.jpg"/><br>奥利弗•特林伦敦报道
+ <br><p>英国工程技术集团IMI表示其正将一部分供应链迁出中国，以应对恶化的国际关系。</p>
+<p>行政总裁罗伊•特威特(Roy Twite)表示，为能源和运输行业生产部件的这家富时250指数(FTSE 250)成分股企业，将让其在中国的制造业务聚焦于为中国国内客户生产部件。</p>
+<p>“我们对中国的原则是：为中国市场在中国制造，”他表示。“我们正在针对中国市场在中国投资，确保如果地缘政治事态朝... ]]></description>
+      <link>http://www.ftchinese.com/story/001098934</link>
+      <pubDate>Sun, 05 Mar 2023 23:47:26 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[韩国芯片制造商担心美国补贴条件苛刻]]></title>
       <description><![CDATA[ <img src="http://creatives.ftacademy.cn/picture/8/000101618_piclink.jpg"/><br>宋京雅首尔报道
@@ -25,7 +34,7 @@
       <description><![CDATA[ <img src="http://creatives.ftacademy.cn/picture/9/000172799_piclink.jpg"/><br>迪米华盛顿报道
  <br><p>华盛顿方面将28家中国集团列入一份贸易黑名单，理由是涉嫌向第三国提供用于核及导弹计划的技术，或者为中国军方采购被禁止的产品，从而违反了美国的制裁规定。</p>
 <p>美国商务部将这些集团列入“实体清单”(entity list)，实际上禁止了美国企业向它们提供美国技术。</p>
-<p>其中一些公司被列入黑名单是因为涉嫌为俄罗斯在乌克兰发动的战争提供支持，或者为一家本就受到美国制裁的伊朗实体提... ]]></description>
+<p>其中一些公司被列入黑名单是因为涉嫌为俄罗斯在乌克兰发动的战争提供支持，或者为一家本就受到美国制裁的伊朗实体提...<hr/> <a href="http://www.ftchinese.com/comments/index/001098927" target="_blank">总共有 13 条读者评论</a> ]]></description>
       <link>http://www.ftchinese.com/story/001098927</link>
       <pubDate>Fri, 03 Mar 2023 11:13:32 GMT</pubDate>
     </item>
@@ -179,14 +188,5 @@
 <p>包凡曾是摩根士丹利(Morgan Stanley)和瑞信(Credit Suisse)的银行家，因代表中国科技行业一些最... ]]></description>
       <link>http://www.ftchinese.com/story/001098871</link>
       <pubDate>Mon, 27 Feb 2023 02:38:41 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新一轮通胀担忧逼退债市涨势]]></title>
-      <description><![CDATA[ <img src="http://creatives.ftacademy.cn/picture/4/000172224_piclink.jpg"/><br>凯特•杜吉德,哈里特卡拉菲尔特,乔治•斯蒂尔,纽约,伦敦报道
- <br><p>全球债券市场自今年初以来的创纪录涨势已经消退，显示通胀将会顽固高企的越来越多迹象迫使投资者逆转其对央行加息路径的预测。</p>
-<p>投资者在2023年的最初几周涌入固定收益产品，越来越期待美联储(Federal Reserve)和其他主要央行将很快结束其大力度收紧货币政策的行动。</p>
-<p>追踪高评级政府和公司债券的彭博(Bloomberg)指数1月一度上升4%，呈现史上表现最好的一年... ]]></description>
-      <link>http://www.ftchinese.com/story/001098870</link>
-      <pubDate>Mon, 27 Feb 2023 02:14:55 GMT</pubDate>
     </item>
   </channel></rss>
