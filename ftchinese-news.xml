@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Generated on Mon, 06 Mar 2023 11:15:33 +0800 -->
+<!-- Generated on Mon, 06 Mar 2023 18:09:31 +0800 -->
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://www.ftchinese.com/index.php/ft/rss/news" rel="self" type="application/rss+xml" />
@@ -11,6 +11,15 @@
     <webMaster>customer.service@ftchinese.com</webMaster>
     <generator>ftchinese.com</generator>
     <ttl>86400</ttl>
+    <item>
+      <title><![CDATA[香港政坛精英被要求放弃西方护照]]></title>
+      <description><![CDATA[ <img src="http://creatives.ftacademy.cn/picture/3/000171963_piclink.jpg"/><br>Chan Ho-him,普丽姆罗丝•赖尔登,香港报道
+ <br><p>北京方面向香港精英人士施压，如果想要当选全国人大代表，就得放弃他们持有的西方护照。北京方面正试图消除外国对香港的影响，收紧对这个行政区的控制。</p>
+<p>根据一位新代表、一位前代表以及一位了解代表选举过程的人士透露，有官员告诉希望在中国最高决策机构中代表香港的政治家和商业大亨，必须放弃由英国等国家签发的护照或旅行证件。</p>
+<p>中国于上周末召开了全国人民代表大会（National ... ]]></description>
+      <link>http://www.ftchinese.com/story/001098938</link>
+      <pubDate>Mon, 06 Mar 2023 05:25:14 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[英国工程技术集团IMI将部分供应链迁出中国]]></title>
       <description><![CDATA[ <img src="http://creatives.ftacademy.cn/picture/0/000172910_piclink.jpg"/><br>奥利弗•特林伦敦报道
@@ -179,14 +188,5 @@
 <p>从2010年初到2020年底，以当前美元汇率计算，中国的经济规模增加了约11.6万亿美... ]]></description>
       <link>http://www.ftchinese.com/story/001098878</link>
       <pubDate>Mon, 27 Feb 2023 13:35:18 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[华兴资本称包凡正“配合”政府调查]]></title>
-      <description><![CDATA[ <img src="http://creatives.ftacademy.cn/picture/9/000172249_piclink.jpg"/><br>康河信香港报道
- <br><p>华兴资本(China Renaissance)表示，其失联创始人包凡“正配合调查”。一周多前，该投行公告无法与包凡取得联系。</p>
-<p>华兴资本在上周日晚间提交给香港证交所的一份简短公告中表示，该公司董事会“已获悉，包先生目前正配合中国有关机关的调查。”</p>
-<p>包凡曾是摩根士丹利(Morgan Stanley)和瑞信(Credit Suisse)的银行家，因代表中国科技行业一些最... ]]></description>
-      <link>http://www.ftchinese.com/story/001098871</link>
-      <pubDate>Mon, 27 Feb 2023 02:38:41 GMT</pubDate>
     </item>
   </channel></rss>
