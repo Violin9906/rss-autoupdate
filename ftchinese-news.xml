@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Generated on Tue, 14 Mar 2023 11:09:00 +0800 -->
+<!-- Generated on Tue, 14 Mar 2023 18:09:59 +0800 -->
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://www.ftchinese.com/index.php/ft/rss/news" rel="self" type="application/rss+xml" />
@@ -11,6 +11,15 @@
     <webMaster>customer.service@ftchinese.com</webMaster>
     <generator>ftchinese.com</generator>
     <ttl>86400</ttl>
+    <item>
+      <title><![CDATA[欧盟拟出台对外投资管制]]></title>
+      <description><![CDATA[ <img src="http://creatives.ftacademy.cn/picture/0/000173990_piclink.jpg"/><br>安迪•邦兹布鲁塞尔报道
+ <br><p>欧盟(EU)正在探索监管欧洲企业海外投资生产设施的办法。此前，美国采取了类似措施，以限制中国和其他竞争对手从西方获取尖端技术的能力。</p>
+<p>欧盟贸易专员瓦尔迪斯•东布罗夫斯基斯(Valdis Dombrovskis)向英国《金融时报》表示，需要出台新的限制措施，以防止企业通过在其他地方生产来绕过敏感技术的出口禁令。</p>
+<p>欧盟已经禁止企业销售可能在乌克兰战争中帮助俄罗斯武装部... ]]></description>
+      <link>http://www.ftchinese.com/story/001099030</link>
+      <pubDate>Tue, 14 Mar 2023 08:16:26 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[硅谷银行事件改变加息路径预测]]></title>
       <description><![CDATA[ <img src="http://creatives.ftacademy.cn/picture/9/000173969_piclink.jpg"/><br>凯蒂•马丁,乔治•斯蒂尔伦敦报道
@@ -161,22 +170,5 @@
 <p>参议院情报委员会(Senate intelligence committee)民主党籍主席马克•华纳(Mark Warner)在周二宣布了该议案，它是试图让各政府部门以一种更具协调性的方法解决来自中国、俄罗斯和伊朗等... ]]></description>
       <link>http://www.ftchinese.com/story/001098968</link>
       <pubDate>Wed, 08 Mar 2023 03:18:54 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[南非去年末季GDP环比收缩1.3%，停电恶果显现]]></title>
-      <description><![CDATA[ <img src="http://creatives.ftacademy.cn/picture/2/000173162_piclink.jpg"/><br>约瑟夫•科特里尔约翰内斯堡报道
- <br><p>受垄断电力企业——南非国家电力公司(Eskom)实施的轮流停电的打击，南非经济在2022年末的萎缩幅度超过预期。</p>
-<p>周二发布的统计数据显示，这个非洲工业化程度最高的国家去年第四季度的经济活动较之前三个月下降1.3%，南非国家电力公司的燃煤电厂在该季度几乎天天发生故障，导致停电。</p>
-<p>自那以来变得更加严重的停电，已促使南非总统西里尔•拉马福萨(Cyril Ramaphos... ]]></description>
-      <link>http://www.ftchinese.com/story/001098964</link>
-      <pubDate>Wed, 08 Mar 2023 00:14:01 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[中国公布贸易数据后股市下跌]]></title>
-      <description><![CDATA[ <img src="http://creatives.ftacademy.cn/picture/9/000141259_piclink.jpg"/><br>乔治•斯蒂尔报道
- <br><p>中国股市周二下跌，此前令人失望的贸易数据加剧了投资者的担忧，即中国退出“清零”政策后的经济复苏可能不会有此前预期的那样劲爆。</p>
-<p>在中国公布数据显示进口总值1至2月累计与去年同期相比减少10.2%之后，沪深300指数(CSI 300)下跌1.4%，香港恒生指数(Hang Seng Index)下跌0.4%。出口表现较好，出口总值仅下降6.8%。分析师此前预计进口和出口总值将分别下降... ]]></description>
-      <link>http://www.ftchinese.com/story/001098963</link>
-      <pubDate>Wed, 08 Mar 2023 02:08:54 GMT</pubDate>
     </item>
   </channel></rss>
