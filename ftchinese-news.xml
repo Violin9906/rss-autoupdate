@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Generated on Tue, 14 Mar 2023 18:09:59 +0800 -->
+<!-- Generated on Wed, 15 Mar 2023 11:08:51 +0800 -->
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://www.ftchinese.com/index.php/ft/rss/news" rel="self" type="application/rss+xml" />
@@ -11,6 +11,24 @@
     <webMaster>customer.service@ftchinese.com</webMaster>
     <generator>ftchinese.com</generator>
     <ttl>86400</ttl>
+    <item>
+      <title><![CDATA[美国2月通胀达6%，美联储处境棘手]]></title>
+      <description><![CDATA[ <img src="http://creatives.ftacademy.cn/picture/0/000144740_piclink.jpg"/><br>科尔比•史密斯华盛顿报道
+ <br><p>美国通胀率仍然偏高，足以进一步复杂化美联储(Federal Reserve)的政策路径。目前美国央行正在应对三家银行倒闭的事件以及围绕金融稳定的更广泛担忧。</p>
+<p>2月消费者价格指数(CPI)同比上涨6%，环比上涨0.4%。这比1月录得的6.4%的同比涨幅有所下降，但仍处于高位。</p>
+<p>剔除波动较大的食品和能源价格后，核心CPI在2月环比攀升0.5%，高于上月0.4%的涨幅，... ]]></description>
+      <link>http://www.ftchinese.com/story/001099036</link>
+      <pubDate>Tue, 14 Mar 2023 23:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[西门子寻路东南亚以摆脱对华依赖]]></title>
+      <description><![CDATA[ <img src="http://creatives.ftacademy.cn/picture/2/000173982_piclink.jpg"/><br>梅塞德丝•吕尔,帕特里夏•尼尔森新加坡,法兰克福报道
+ <br><p>西门子(Siemens)正在东南亚寻找投资机会，以将业务分散至中国以外的地方。在西方与中国之间地缘政治关系紧张的背景下，跨国公司正努力降低供应链风险。</p>
+<p>西门子首席人力资源和可持续发展官尤迪特•维泽(Judith Wiese)在接受采访时表示，该公司正在印度尼西亚、越南和泰国等快速增长的经济体招聘员工并考虑增设工厂。这家德国集团是全球最大工业集团之一。</p>
+<p>维泽在新加坡... ]]></description>
+      <link>http://www.ftchinese.com/story/001099032</link>
+      <pubDate>Tue, 14 Mar 2023 09:29:13 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[欧盟拟出台对外投资管制]]></title>
       <description><![CDATA[ <img src="http://creatives.ftacademy.cn/picture/0/000173990_piclink.jpg"/><br>安迪•邦兹布鲁塞尔报道
@@ -162,13 +180,5 @@
 <p>“特别是，在这些关键电信基础设施的安全性、机密性、诚信、可用性或功能方面，存在应用不当的风险。当然，还有一点是不要过分依赖特定的提供商... ]]></description>
       <link>http://www.ftchinese.com/story/001098971</link>
       <pubDate>Wed, 08 Mar 2023 05:50:42 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[美国两党参议员提交新议案，为封禁TikTok创造条件]]></title>
-      <description><![CDATA[ <img src="http://creatives.ftacademy.cn/picture/6/000167236_piclink.jpeg"/><br>迪米
- <br><p>美国参议院民主党人和共和党人共同提交了一份议案，该议案将赋予美国政府新的权力，可以封禁给美国构成安全威胁的中国应用(app)，包括流行的视频分享平台TikTok。</p>
-<p>参议院情报委员会(Senate intelligence committee)民主党籍主席马克•华纳(Mark Warner)在周二宣布了该议案，它是试图让各政府部门以一种更具协调性的方法解决来自中国、俄罗斯和伊朗等... ]]></description>
-      <link>http://www.ftchinese.com/story/001098968</link>
-      <pubDate>Wed, 08 Mar 2023 03:18:54 GMT</pubDate>
     </item>
   </channel></rss>
